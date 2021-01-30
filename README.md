@@ -1,3 +1,9 @@
+Following https://www.learnstorybook.com/intro-to-storybook/react/en/deploy/
+
+Storybook hosted on Chromatic https://6015e679d918950021bef129-rywwkytzby.chromatic.com/
+
+CI setup with Github Actions
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
